@@ -18,14 +18,21 @@ const About = () => {
           className="w-full lg:w-1/2 lg:p-8"
         >
           <div className="flex items-center justify-center">
-            <img className="rounded-2xl w-[600px]" src={aboutImg} alt="about image" />
+            <img
+              className="rounded-2xl w-[600px]"
+              src={aboutImg}
+              alt="about image"
+            />
           </div>
         </motion.div>
-        <motion.div whileInView={{ opacity: 1, x: 0 }}
+        <motion.div
+          whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: 100 }}
-          transition={{ duration: 0.5 }} className="w-full lg:w-1/2">
+          transition={{ duration: 0.5 }}
+          className="w-full lg:w-1/2"
+        >
           <div className="flex justify-center lg:justify-start">
-            <p className="my-2 max-w-xl py-6 text-justify">{ABOUT_TEXT}</p>
+            <p className="my-2 max-w-xl py-6 text-[20px]">{ABOUT_TEXT}</p>
           </div>
         </motion.div>
       </div>
