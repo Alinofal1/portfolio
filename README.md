@@ -16,7 +16,12 @@ The website features smooth animations and a clean UI to create an engaging user
 
 https://alinofal-portfolio.netlify.app/
 
----
+## Preview
+
+![Portfolio Preview](./preview.png)
+
+---<img width="1898" height="904" alt="preview png" src="https://github.com/user-attachments/assets/006dc26b-c724-4921-b1d4-72837d38a86c" />
+
 
 ## Tech Stack
 
