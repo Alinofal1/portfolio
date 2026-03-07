@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/React-18-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3-blue)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-Animation-purple)
+
 # Personal Portfolio Website
 
 ## Overview
@@ -51,4 +55,4 @@ https://alinofal-portfolio.netlify.app/
 Clone the repository
 
 ```bash
-git clone https://github.com/Alinofal1/my-portfolio-
+git clone https://github.com/Alinofal1/portfolio
