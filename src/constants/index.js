@@ -47,7 +47,7 @@ export const PROJECTS = [
     link: "https://netflix-react-tw-1ccad.web.app/",
     image: project1,
     description:
-      "Netflix Clone built with React, TailwindCSS & Firebase. Features user authentication, a responsive UI & dynamic movie data fetching.",
+      "Built a full-featured Netflix clone from scratch using React and Tailwind CSS, creating a responsive and high-performance user interface. Integrated the TMDB API for real-time movie data, implemented user authentication, and designed a modular, reusable component architecture to enhance scalability, maintainability, and overall user experience.",
     technologies: ["React", "Tailwind", "FireBase"],
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS = [
     link: "https://media-plus-v1.netlify.app/",
     image: project2,
     description:
-      "Media Plus is a Ramallah-based multimedia agency specializing in storytelling, branding, and digital campaigns for NGOs and private clients.",
+      "Built Media Plus, a Ramallah-based multimedia agency website, from scratch using HTML, CSS, and JavaScript. Integrated LightGallery for interactive media galleries and Swiper.js for responsive sliders. Focused on storytelling and branding, creating a visually engaging and fully responsive experience for NGO and private clients.",
     technologies: ["HTML", "CSS", "JavaScript", "LightGallery", "Swiper Js"],
   },
   {
@@ -63,7 +63,7 @@ export const PROJECTS = [
     link: "https://orient-v1.netlify.app/",
     image: project3,
     description:
-      "Orient is a modern desktop-only website featuring a clean layout, professional branding, and smooth user experience.",
+      "Developed Orient, a real desktop-only website for a Palestinian company from scratch using HTML, CSS, and JavaScript. Integrated LightGallery for interactive media displays and Swiper.js for seamless sliders. Optimized layouts and animations to deliver a smooth, professional user experience that enhances branding and engagement",
     technologies: ["HTML", "CSS", "JavaScript", "LightGallery", "Swiper Js"],
   },
   {
@@ -71,7 +71,7 @@ export const PROJECTS = [
     link: "https://ohchr.netlify.app/",
     image: project4,
     description:
-      "OHCHR Qatar is a desktop-only website that provides resources, publications, and programs to support human rights initiatives in Qatar, featuring clear navigation and structured content.",
+      "Developed OHCHR Qatar, a real desktop-only website from scratch using HTML, CSS, and JavaScript, for a human rights organization in Qatar. Implemented clear navigation, structured content, interactive media galleries with LightGallery, and dynamic sliders using Swiper.js. Delivered a polished and professional user experience that enhances accessibility and engagement with the organization’s resources.",
     technologies: ["HTML", "CSS", "JavaScript", "LightGallery", "Swiper Js"],
   },
   {
@@ -79,7 +79,7 @@ export const PROJECTS = [
     link: "https://give-palestine.netlify.app/",
     image: project5,
     description:
-      "Give Palestine is a desktop website dedicated to supporting Palestinian communities through educational, cultural, and humanitarian initiatives, featuring clear navigation and informative content.",
+      "Developed Give Palestine, a real desktop-only website from scratch using HTML, CSS, and JavaScript, supporting Palestinian communities through educational, cultural, and humanitarian initiatives. Implemented clear navigation, structured and informative content, interactive media galleries with LightGallery, and dynamic sliders using Swiper.js. Delivered a polished and engaging user experience that enhances accessibility and user interaction with the initiatives.",
     technologies: ["HTML", "CSS", "JavaScript", "LightGallery", "Swiper Js"],
   },
   {
@@ -87,7 +87,7 @@ export const PROJECTS = [
     link: "https://burger-hubb.netlify.app/",
     image: project6,
     description:
-      "Burger Hubb is a responsive web application that offers a diverse menu of ready-to-serve meals, including burgers, sides, and beverages. With a user-friendly interface and smooth navigation, it provides an engaging experience for users to explore and order their favorite dishes effortlessly.",
+      "Built Burger Hubb, a responsive web application from scratch using React and Tailwind CSS. Designed a clean and interactive interface showcasing a diverse menu of burgers, sides, and beverages. Implemented smooth navigation, reusable components, and a scalable front-end architecture to deliver an engaging and polished user experience.",
     technologies: ["React", "Tailwind Css"],
   },
   {
@@ -95,7 +95,7 @@ export const PROJECTS = [
     link: "https://user-dashboard2.netlify.app/",
     image: project7,
     description:
-      "A modern and responsive admin dashboard built with Next.js, Tailwind CSS, and Chart.js  featuring interactive charts and a clean UI for efficient data management.",
+      "Built a modern and responsive User Dashboard from scratch using Next.js, Tailwind CSS, and Chart.js. Designed a clean and interactive interface with dynamic charts and organized layouts, enabling efficient visualization and management of data. Focused on reusable components and scalable architecture to deliver a polished and professional user experience.",
     technologies: ["Next Js", "Tailwind Css", "Chart Js"],
   },
   {
@@ -103,7 +103,7 @@ export const PROJECTS = [
     link: "https://streamerzz-an.netlify.app/",
     image: project8,
     description:
-      "Streamerzz is a sleek, modern streaming platform UI built with React and Tailwind CSS, showcasing dynamic movie listings and smooth user interactions. It highlights responsive design and a clean, intuitive interface ideal for entertainment platforms.",
+      "Built Streamerzz, a modern streaming platform UI from scratch using React, Tailwind CSS, Framer Motion, and React-Scroll. Designed a clean, responsive, and interactive interface showcasing dynamic movie listings and smooth user interactions. Focused on reusable components and scalable front-end architecture to deliver a polished and engaging user experience.",
     technologies: ["React", "Tailwind Css", "Framer Motion", "React-scroll"],
   },
   {
@@ -111,7 +111,7 @@ export const PROJECTS = [
     link: "https://3d-projectt.netlify.app/",
     image: project9,
     description:
-      "A creative 3D web experience built with HTML, CSS, and Spline, featuring a robot that smoothly follows the user's cursor for an engaging, interactive effect.",
+      "Built a creative 3D web experience from scratch using HTML, CSS, and Spline. Developed an interactive robot that smoothly follows the user's cursor, creating an engaging and immersive experience. Focused on responsive design, smooth animations, and scalable front-end structure for a polished and professional interface.",
     technologies: ["Html", "Css", "Spline"],
   },
   {
@@ -119,7 +119,7 @@ export const PROJECTS = [
     link: "https://prodcts-management-system.netlify.app/",
     image: project10,
     description:
-      "Product Management System built with HTML, Bootstrap & JavaScript. It features CRUD operations to add, view, update, and delete product records with a responsive, interactive interface.",
+      "Built a Product Management System from scratch using HTML, CSS, Bootstrap, and JavaScript. Implemented CRUD operations to manage product records with a responsive and interactive interface. Focused on clean UI, intuitive navigation, and scalable front-end architecture for a polished and professional user experience.",
     technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
   },
   {
@@ -127,7 +127,7 @@ export const PROJECTS = [
     link: "https://memory-gamme.netlify.app/",
     image: project11,
     description:
-      "The Memory Game is a fun and visually engaging project created using HTML, CSS, and React.js. It challenges players to test their memory by matching pairs of cards through a series of flips.",
+      "Built a Memory Game from scratch using HTML, CSS, and React.js. Developed an interactive and visually engaging interface where players match pairs of cards through a series of flips. Focused on responsive design, smooth animations, and reusable components to deliver a polished and enjoyable user experience.",
     technologies: ["HTML", "CSS", "React"],
   },
   {
@@ -135,7 +135,7 @@ export const PROJECTS = [
     link: "https://blueprint-360.com/",
     image: project12,
     description:
-      "Blueprint 360 is a responsive platform for Blueprint Company, built with React.js and Tailwind CSS. It offers a modern design showcasing their tech consulting services, optimized for all devices.",
+      "Developed Blueprint 360, a real responsive platform for Blueprint Company from scratch using React.js and Tailwind CSS. Designed a modern and visually engaging interface showcasing the company’s tech consulting services, optimized for all devices. Focused on reusable components and scalable architecture to deliver a polished and professional user experience.",
     technologies: ["HTML", "Tailwind", "ReactJs"],
   },
   {
@@ -143,7 +143,7 @@ export const PROJECTS = [
     link: "https://alinofal-eshop.netlify.app/",
     image: project13,
     description:
-      "A modern and fully responsive e-commerce web application built with React, featuring dynamic product listings, smooth user interactions, and a clean, intuitive UI. Designed to deliver a seamless online shopping experience.",
+      "Built a modern and fully responsive e-commerce web application from scratch using React and Tailwind CSS. Developed dynamic product listings and an intuitive interface with smooth user interactions. Focused on reusable components, scalable architecture, and polished design to deliver a seamless and engaging browsing experience.",
     technologies: ["HTML", "Tailwind", "ReactJs"],
   },
   {
@@ -151,7 +151,7 @@ export const PROJECTS = [
     link: "https://bootstrab-app.netlify.app/",
     image: project14,
     description:
-      "This responsive web app showcases a sleek and modern UI built with Bootstrap, demonstrating elegant design and seamless user experience across all devices. It highlights effective use of components and layout systems tailored for professional web presentation.",
+      "Built a responsive web application from scratch using HTML and Bootstrap. Designed a sleek and modern interface showcasing effective use of Bootstrap components and layout systems. Focused on polished visuals, smooth interactions, and responsive design to deliver a professional and engaging user experience.",
     technologies: ["HTML", "Bootstrab"],
   },
 ];
